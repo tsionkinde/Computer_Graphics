@@ -45,7 +45,7 @@ GLUT (OpenGL Utility Toolkit)
 OpenGL (GL, GLU)
 # Project Structure
 Computer Graphics
-│
+
 ├── main.py              # Maze generator + solver (core logic)
 ├── README.md            # Project documentation
 
