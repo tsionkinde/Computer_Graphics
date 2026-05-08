@@ -1,9 +1,9 @@
-🧩 Maze Generator & Solver (PyOpenGL)
+## Maze Generator & Solver (PyOpenGL)
 
-A visually animated **Maze Generator and Solver** built using **Python** and **PyOpenGL**.  
-This project generates a random maze using the **Depth-First Search (DFS) Recursive Backtracking Algorithm** and then automatically solves it while visualizing the process in real time.
+A visually animated Maze Generator and Solver built using Python and PyOpenGL.  
+This project generates a random maze using the Depth-First Search (DFS) Recursive Backtracking Algorithm and then automatically solves it while visualizing the process in real time.
 
-📌 Features
+ ## Features
 
 ✅ Random maze generation  
 ✅ Real-time maze visualization using OpenGL  
