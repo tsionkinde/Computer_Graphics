@@ -5,14 +5,14 @@ This project is a visual simulation of a Maze Generator and Solver built using P
 The program runs in real-time and visually shows how the maze is formed step by step, followed by how the solver navigates through it.
 
 ## Features
-# Random maze generation using DFS Backtracking
-# Real-time visualization of maze creation
-# Automatic maze solving using wall-following algorithm
-# Dead-end detection and visualization
-# Live mouse/agent movement during solving phase
-# Automatic entrance and exit creation
-# Optional cycle generation (adds complexity to maze)
-# Smooth animation using GLUT timer updates
+* Random maze generation using DFS Backtracking
+* Real-time visualization of maze creation
+* Automatic maze solving using wall-following algorithm
+* Dead-end detection and visualization
+* Live mouse/agent movement during solving phase
+* Automatic entrance and exit creation
+* Optional cycle generation (adds complexity to maze)
+* Smooth animation using GLUT timer updates
 ## How It Works
 1. Maze Generation (DFS Backtracking)
 The maze is generated using a stack-based Depth-First Search algorithm:
@@ -34,10 +34,10 @@ Tracks visited paths and dead ends
 Finds path from entrance to exit automatically
 4. Visualization
 The program visually represents:
-# White lines → Maze walls
-# Red dots → Path taken
-# Blue dots → Dead ends
-# Green dot → Current position of solver
+* White lines → Maze walls
+* Red dots → Path taken
+* Blue dots → Dead ends
+* Green dot → Current position of solver
    ## Technologies Used
 Python 3
 PyOpenGL
